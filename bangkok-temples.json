@@ -424,19 +424,6 @@
     "quiz_location_prompt": "A historic temple in old Bangkok established in 1810. What is its name?"
   },
   {
-    "id": 36,
-    "name_english": "Wat Don Chedi",
-    "name_thai": "วัดดอนเชดี",
-    "latitude": 13.678,
-    "longitude": 100.54,
-    "founding_year": 1750,
-    "architectural_style": "Ayutthaya Thai with Rattanakosin additions",
-    "description": "Wat Don Chedi, with roots in Ayutthaya period and rebuilt during Bangkok's establishment, represents remarkable Buddhist continuity through Thai history. The temple maintains historical significance and continues as an active pilgrimage site.",
-    "historical_significance": "Ayutthaya period origins; rebuilt 1750s; represents Buddhist continuity; important pilgrimage destination",
-    "quiz_image_prompt": "This temple traces its origins to Ayutthaya period. What is it called?",
-    "quiz_location_prompt": "A historic temple with Ayutthaya roots now in Bangkok. What is its name?"
-  },
-  {
     "id": 37,
     "name_english": "Wat Ananda Meruya",
     "name_thai": "วัดอานนท์เมรุย",
@@ -448,58 +435,6 @@
     "historical_significance": "Established 1870 during Bangkok expansion; represents Buddhist urban adaptation; community spiritual center",
     "quiz_image_prompt": "This 1870 temple reflects Bangkok's Buddhist development during urbanization. What is it called?",
     "quiz_location_prompt": "A temple established as Bangkok expanded, serving community spiritual needs. What is its name?"
-  },
-  {
-    "id": 38,
-    "name_english": "Wat Cholaprathip",
-    "name_thai": "วัดโชลประทีป",
-    "latitude": 13.745,
-    "longitude": 100.505,
-    "founding_year": 1855,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Cholaprathip, founded in 1855, serves as an important Buddhist education center. The temple maintains a strong focus on Buddhist studies and continues as a respected center for Buddhist learning.",
-    "historical_significance": "Founded 1855; important Buddhist education center; known for Buddhist scholarship; respected learning institution",
-    "quiz_image_prompt": "This important Buddhist education center was founded in 1855. What is it called?",
-    "quiz_location_prompt": "A respected center for Buddhist learning established in 1855. What is its name?"
-  },
-  {
-    "id": 39,
-    "name_english": "Wat Rakang Kosìtaram",
-    "name_thai": "วัดระฆังโกษีตาราม",
-    "latitude": 13.635,
-    "longitude": 100.475,
-    "founding_year": 1751,
-    "architectural_style": "Ayutthaya Thai",
-    "description": "Wat Rakang Kosìtaram, dating to Ayutthaya period and rebuilt in Bangkok, represents ancient Buddhist heritage. The temple name references its bell and maintains historical significance in Bangkok's Buddhist landscape.",
-    "historical_significance": "Ayutthaya period roots; represents ancient Buddhist heritage; historic bell tower; important pilgrimage site",
-    "quiz_image_prompt": "This temple's name references a bell. What is Wat Rakang Kosìtaram called?",
-    "quiz_location_prompt": "With Ayutthaya period roots, this temple represents ancient Buddhist heritage. What is its name?"
-  },
-  {
-    "id": 43,
-    "name_english": "Wat Hua Mark",
-    "name_thai": "วัดหัวมาร์ค",
-    "latitude": 13.765,
-    "longitude": 100.55,
-    "founding_year": 1856,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Hua Mark, founded in 1856, serves as an important temple in Bangkok's eastern areas. The temple maintains traditional Buddhist architecture and continues serving its community.",
-    "historical_significance": "Founded 1856; important eastern Bangkok temple; community spiritual center; maintains Buddhist traditions",
-    "quiz_image_prompt": "This 1856 temple serves Bangkok's Buddhist community. What is it called?",
-    "quiz_location_prompt": "An important temple in eastern Bangkok established in 1856. What is its name?"
-  },
-  {
-    "id": 45,
-    "name_english": "Wat Savanvasi",
-    "name_thai": "วัดสวนวสิ",
-    "latitude": 13.755,
-    "longitude": 100.485,
-    "founding_year": 1883,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Savanvasi, founded in 1883, represents Buddhist development during Bangkok's late 19th-century growth. The temple continues as an important center for Buddhist practice and spiritual development.",
-    "historical_significance": "Founded 1883; represents late 19th-century Buddhist development; community spiritual center; maintains Buddhist traditions",
-    "quiz_image_prompt": "This late 19th-century temple represents Buddhist development in Bangkok. What is it called?",
-    "quiz_location_prompt": "Founded in 1883, this temple served Bangkok's growing Buddhist community. What is its name?"
   },
   {
     "id": 15,
