@@ -294,19 +294,6 @@
     "verified_source": "nominatim:way/1433798308"
   },
   {
-    "id": 23,
-    "name_english": "Wat Chakraphong",
-    "name_thai": "วัดจักรพร",
-    "latitude": 13.65,
-    "longitude": 100.505,
-    "founding_year": 1840,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Chakraphong, established during Bangkok's mid-Rattanakosin period, maintains important Buddhist traditions and serves as a significant community temple. Wat Chakraphong continues as an active center for Buddhist education and merit-making.",
-    "historical_significance": "Established mid-Rattanakosin period; community spiritual center; Buddhist education center; serves local merit-making needs",
-    "quiz_image_prompt": "This mid-Rattanakosin temple maintains Buddhist traditions. What is it called?",
-    "quiz_location_prompt": "Founded in 1840, this temple serves Bangkok's Buddhist community. What is its name?"
-  },
-  {
     "id": 24,
     "name_english": "Wat Thepsirinimit Ratchaworavihara",
     "name_thai": "วัดเทพศิรินิมิตรราชวรวิหาร",
