@@ -1,0 +1,24 @@
+# Rust
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# Android
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+.DS_Store
+android/app/src/main/jniLibs/
+
+# Generated files
+android/app/src/main/kotlin/com/flashcard/temples/templecore/
+uniffi-bindgen/
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/

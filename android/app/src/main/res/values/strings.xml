@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temple Flashcard</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="next_temple">Next Temple</string>
+</resources>

@@ -1,0 +1,72 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+    namespace = "com.flashcard.temples"
+    compileSdk rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        applicationId "com.flashcard.temples"
+        minSdk rootProject.ext.minSdkVersion
+        targetSdk rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "0.1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_21
+        targetCompatibility JavaVersion.VERSION_21
+    }
+
+    kotlinOptions {
+        jvmTarget = '21'
+    }
+
+    packagingOptions {
+        pickFirst 'lib/arm64-v8a/libc++_shared.so'
+        pickFirst 'lib/armeabi-v7a/libc++_shared.so'
+        pickFirst 'lib/x86/libc++_shared.so'
+        pickFirst 'lib/x86_64/libc++_shared.so'
+    }
+}
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+dependencies {
+    implementation "androidx.appcompat:appcompat:1.8.1"
+    implementation "androidx.constraintlayout:constraintlayout:2.1.4"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:2.1.0"
+
+    testImplementation "junit:junit:4.13.2"
+    androidTestImplementation "androidx.test.ext:junit:1.2.1"
+    androidTestImplementation "androidx.test.espresso:espresso-core:3.6.1"
+}
+
+// Build Rust library before building APK
+task buildRustLibrary(type: Exec) {
+    workingDir = rootDir.parentFile
+
+    if (System.getProperty('os.name').toLowerCase().contains('win')) {
+        commandLine 'cmd', '/c', 'cargo-ndk -o android/app/src/main/jniLibs build --release --target aarch64-linux-android --target armv7-linux-androideabi'
+    } else {
+        commandLine 'cargo-ndk', '-o', 'android/app/src/main/jniLibs', 'build', '--release', '--target', 'aarch64-linux-android', '--target', 'armv7-linux-androideabi'
+    }
+}
+
+tasks.whenTaskAdded { task ->
+    if (task.name == 'mergeReleaseNativeLibs' || task.name == 'mergeDebugNativeLibs') {
+        task.dependsOn buildRustLibrary
+    }
+}
