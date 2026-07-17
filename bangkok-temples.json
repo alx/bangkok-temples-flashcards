@@ -500,5 +500,17 @@
     "historical_significance": "Founded 1883; represents late 19th-century Buddhist development; community spiritual center; maintains Buddhist traditions",
     "quiz_image_prompt": "This late 19th-century temple represents Buddhist development in Bangkok. What is it called?",
     "quiz_location_prompt": "Founded in 1883, this temple served Bangkok's growing Buddhist community. What is its name?"
+  },
+  {
+    "id": 15,
+    "name_english": "Wat Maharat",
+    "name_thai": "วัดมหาราช",
+    "latitude": 13.7536,
+    "longitude": 100.488,
+    "founding_year": 1788,
+    "architectural_style": "Ayutthaya Thai with later additions",
+    "description": "Wat Maharat, with roots extending to Thailand's Ayutthaya period, survived the kingdom's fall and was relocated to Bangkok in 1788. Located near the Grand Palace.",
+    "historical_significance": "Survived Ayutthaya's fall; relocated to Bangkok; represents Buddhist continuity",
+    "verified_source": "manual/cindy-verification"
   }
 ]
