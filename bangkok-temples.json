@@ -101,14 +101,15 @@
     "id": 8,
     "name_english": "Wat Chulalongkorn",
     "name_thai": "วัดจุฬาลงกรณ์",
-    "latitude": 13.738,
-    "longitude": 100.5372,
+    "latitude": 13.743089,
+    "longitude": 100.532872,
     "founding_year": 1868,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Chulalongkorn, founded in 1818 and renamed in 1868, serves as an important royal Buddhist temple deeply connected to Thai monarchy and national identity. The temple complex was traditionally used for royal cremation ceremonies, maintaining the Thai Buddhist tradition of honoring deceased kings through elaborate funeral rites. Ornate decorations, golden spires, and sacred halls filled with Buddhist statuary characterize this temple. Wat Chulalongkorn represents the intricate weaving of Thai Buddhism with the monarchy—a relationship fundamental to Thai culture and religious practice. The temple remains a place where Thai people venerate the royal family and engage in Buddhist practices supporting the nation and its rulers.",
     "historical_significance": "Built for royal cremation ceremonies; reflects Thai Buddhist tradition of royal veneration; represents connection between monarchy and Buddhist faith; important state ceremonial site",
     "quiz_image_prompt": "This Bangkok temple was historically used for royal cremation ceremonies. What is it called?",
-    "quiz_location_prompt": "Wat Chulalongkorn is associated with Thai royal veneration. During which period was it founded and given its current name?"
+    "quiz_location_prompt": "Wat Chulalongkorn is associated with Thai royal veneration. During which period was it founded and given its current name?",
+    "verified_source": "nominatim:relation/90337"
   },
   {
     "id": 9,
@@ -226,27 +227,29 @@
     "id": 18,
     "name_english": "Wat Sanam Luang",
     "name_thai": "วัดสนามหลวง",
-    "latitude": 13.6564,
-    "longitude": 100.4968,
+    "latitude": 13.755126,
+    "longitude": 100.493055,
     "founding_year": 1788,
     "architectural_style": "Thai traditional",
     "description": "Wat Sanam Luang, located adjacent to Bangkok's historic Sanam Luang (royal plaza), represents an important thread in Bangkok's spiritual and ceremonial landscape. Sanam Luang itself has served as Bangkok's central ceremonial ground since the city's founding, hosting royal celebrations, state funerals, and major Buddhist festivals. The temple complex reflects traditional Thai Buddhist architecture and serves as a spiritual center for important state occasions. Historically, this site has been central to Thai royal and Buddhist ceremonies, making it crucial to understanding Bangkok's identity as a sacred Buddhist city intimately connected to Thailand's monarchy.",
     "historical_significance": "Located at important Bangkok historical site; site of royal ceremonies and merit-making; reflects Bangkok's sacred geography; important for understanding Bangkok's spiritual landscape",
     "quiz_image_prompt": "This temple sits adjacent to Bangkok's most important royal plaza. What is that plaza called?",
-    "quiz_location_prompt": "Associated with Sanam Luang, this historic temple reflects Bangkok's spiritual importance. What is it called?"
+    "quiz_location_prompt": "Associated with Sanam Luang, this historic temple reflects Bangkok's spiritual importance. What is it called?",
+    "verified_source": "nominatim:way/23630232"
   },
   {
     "id": 19,
     "name_english": "Wat Khanitcharam",
     "name_thai": "วัดขนิตชาราม",
-    "latitude": 13.7265,
-    "longitude": 100.5295,
+    "latitude": 13.755243,
+    "longitude": 100.489943,
     "founding_year": 1850,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Khanitcharam, established during Bangkok's mid-Rattanakosin period, gained prominence as an important meditation practice center. The temple has maintained a strong focus on contemplative Buddhism and Buddhist education, attracting devoted practitioners. Its traditional architecture reflects 19th-century Bangkok temple design, while its active monastic community continues Buddhist practices that have sustained the temple for nearly two centuries. Wat Khanitcharam represents the continuity of Bangkok Buddhist spiritual traditions and remains an important retreat destination for practicing Buddhists.",
     "historical_significance": "Important center for Buddhist contemplative practice; represents continuous Bangkok Buddhist tradition; associated with respected meditation lineages; significant in history of Thai Buddhist practice",
     "quiz_image_prompt": "This historically important meditation center features traditional Bangkok temple architecture. What is it?",
-    "quiz_location_prompt": "Known for Buddhist contemplative practice, this temple was established during the Rattanakosin period. What is its name?"
+    "quiz_location_prompt": "Known for Buddhist contemplative practice, this temple was established during the Rattanakosin period. What is its name?",
+    "verified_source": "nominatim:way/210267894"
   },
   {
     "id": 20,
@@ -375,14 +378,15 @@
     "id": 30,
     "name_english": "Wat Ratchasitaram",
     "name_thai": "วัดราชสีตาราม",
-    "latitude": 13.645,
-    "longitude": 100.492,
+    "latitude": 13.7553,
+    "longitude": 100.510341,
     "founding_year": 1795,
     "architectural_style": "Rattanakosin Thai traditional",
     "description": "Wat Ratchasitaram, founded in 1795 during early Bangkok establishment, represents important Buddhist heritage and historical significance. The temple name invokes royal patronage and reflects the close connection between Thai monarchy and Buddhist tradition.",
     "historical_significance": "Founded 1795 during early Bangkok; represents royal patronage of Buddhism; important historical Buddhist site; continuous pilgrimage destination",
     "quiz_image_prompt": "This early Bangkok temple reflects royal patronage of Buddhist tradition. What is it?",
-    "quiz_location_prompt": "Founded in 1795, this temple represents early Bangkok Buddhist development. What is its significance?"
+    "quiz_location_prompt": "Founded in 1795, this temple represents early Bangkok Buddhist development. What is its significance?",
+    "verified_source": "nominatim:way/333223617"
   },
   {
     "id": 31,
@@ -414,27 +418,29 @@
     "id": 33,
     "name_english": "Wat Chakrawat",
     "name_thai": "วัดจักรวรรณ",
-    "latitude": 13.6285,
-    "longitude": 100.4895,
+    "latitude": 13.7497,
+    "longitude": 100.496222,
     "founding_year": 1810,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Chakrawat, established in 1810, serves as an important temple in old Bangkok's spiritual landscape. The temple maintains traditional Buddhist practice and continues serving its community through merit-making and spiritual development.",
     "historical_significance": "Founded 1810; important old city Buddhist site; maintains continuous spiritual practice; community merit-making center",
     "quiz_image_prompt": "This early Rattanakosin temple serves Bangkok's Buddhist community. What is it called?",
-    "quiz_location_prompt": "A historic temple in old Bangkok established in 1810. What is its name?"
+    "quiz_location_prompt": "A historic temple in old Bangkok established in 1810. What is its name?",
+    "verified_source": "nominatim:node/7326500290"
   },
   {
     "id": 37,
     "name_english": "Wat Ananda Meruya",
     "name_thai": "วัดอานนท์เมรุย",
-    "latitude": 13.74,
-    "longitude": 100.522,
+    "latitude": 13.771708,
+    "longitude": 100.513054,
     "founding_year": 1870,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Ananda Meruya, established during Bangkok's development period, represents Buddhist adaptation to urban expansion. The temple continues as an active spiritual center serving its community.",
     "historical_significance": "Established 1870 during Bangkok expansion; represents Buddhist urban adaptation; community spiritual center",
     "quiz_image_prompt": "This 1870 temple reflects Bangkok's Buddhist development during urbanization. What is it called?",
-    "quiz_location_prompt": "A temple established as Bangkok expanded, serving community spiritual needs. What is its name?"
+    "quiz_location_prompt": "A temple established as Bangkok expanded, serving community spiritual needs. What is its name?",
+    "verified_source": "nominatim:way/31987148"
   },
   {
     "id": 15,
