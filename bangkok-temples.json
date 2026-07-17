@@ -10,7 +10,8 @@
     "description": "Wat Phra Kaew, the Temple of the Emerald Buddha, stands as Thailand's most sacred Buddhist site within the Grand Palace complex. Founded in 1782 when Bangkok became the capital, this stunning Rattanakosin-style temple houses the Phra Kaew Morakot (Emerald Buddha), the most venerated religious object in Thailand despite measuring only 66 centimeters tall. The temple showcases extraordinary Thai craftsmanship with elaborate golden decorations, intricate mosaics, and ornate chedis. The Emerald Buddha is actually carved from jade and depicts the Buddha in the 'Touching the Earth' pose. As a royal temple, it remains the most important religious site in the Thai kingdom, serving as both a spiritual center and symbol of Thai national identity and Buddhist faith.",
     "historical_significance": "Most sacred Buddhist temple in Thailand; houses the Emerald Buddha (Phra Kaew Morakot); symbol of Thai national identity and Buddhist faith; represents unity of Thai monarchy and Buddhism",
     "quiz_image_prompt": "This temple houses Thailand's most sacred object. What is it called?",
-    "quiz_location_prompt": "This royal temple sits within the Grand Palace. What is the Buddha enshrined here?"
+    "quiz_location_prompt": "This royal temple sits within the Grand Palace. What is the Buddha enshrined here?",
+    "verified_source": "nominatim:way/230010054"
   },
   {
     "id": 2,
@@ -23,20 +24,22 @@
     "description": "Wat Pho, the Temple of the Reclining Buddha, stands as one of Bangkok's most iconic Buddhist temples and a world-renowned pilgrimage destination. The temple's most famous feature is its colossal Reclining Buddha statue, measuring 46 meters long and standing 15 meters high. Cast in stucco and gilded in gold leaf, this Buddha image represents Siddhartha Gautama at the moment of entering Nirvana. Originally founded in the 16th century and significantly renovated during the early Chakri Dynasty (1787-1832), Wat Pho showcases Ayutthaya architectural traditions alongside later Thai additions. The temple complex spans 8 hectares and contains four main viharas (assembly halls), multiple chedis, and serves as an important center for Thai traditional medicine. Inside the Reclining Buddha's feet are 108 mother-of-pearl inlaid panels depicting scenes from Buddhist teachings.",
     "historical_significance": "One of Bangkok's oldest temples; major pilgrimage site; Reclining Buddha represents entering Nirvana; center of Thai traditional medicine knowledge preservation",
     "quiz_image_prompt": "This temple is famous for its enormous gilded Buddha in a horizontal position. What pose does it represent?",
-    "quiz_location_prompt": "Wat Pho, known for its reclining Buddha, sits south of the Grand Palace. How many meters long is this famous statue?"
+    "quiz_location_prompt": "Wat Pho, known for its reclining Buddha, sits south of the Grand Palace. How many meters long is this famous statue?",
+    "verified_source": "nominatim:relation/11169995"
   },
   {
     "id": 3,
     "name_english": "Wat Saket",
     "name_thai": "วัดสะเก็ด",
-    "latitude": 13.6612,
-    "longitude": 100.5145,
+    "latitude": 13.753849,
+    "longitude": 100.506694,
     "founding_year": 1807,
     "architectural_style": "Ayutthaya Thai with later additions",
     "description": "Wat Saket, known as the Temple of the Golden Mount, features one of Bangkok's most distinctive landmarks: an artificial golden-topped hill rising over 60 meters above the surrounding city. Originally constructed during the Ayutthaya period and rebuilt in 1807, this historic temple complex includes a mondop (reliquary) at the summit containing relics believed to be from Gautama Buddha himself. The winding staircase ascending the mount offers panoramic views across Bangkok and the Chao Phraya River. Devotees climb this sacred hill as an act of Buddhist merit-making, with the journey itself considered spiritually significant. Annually, Wat Saket hosts the spectacular Loy Kratip Festival, where thousands of Bangkok residents gather to make merit, light candles, and release illuminated paper lanterns into the night sky—a breathtaking display of faith visible across the city.",
     "historical_significance": "Historic site from Ayutthaya period; landmark visible across Bangkok for centuries; important pilgrimage destination; hosts annual Loy Kratip Festival with thousands of devotees",
     "quiz_image_prompt": "This temple is famous for its prominent artificial golden hill rising above Bangkok. What is it called?",
-    "quiz_location_prompt": "The Golden Mount at Wat Saket provides panoramic views of Bangkok. What major religious festival happens here annually?"
+    "quiz_location_prompt": "The Golden Mount at Wat Saket provides panoramic views of Bangkok. What major religious festival happens here annually?",
+    "verified_source": "nominatim:way/88359228"
   },
   {
     "id": 4,
@@ -49,33 +52,36 @@
     "description": "Wat Benchamabophit, known as the Marble Temple, represents a stunning fusion of Thai Buddhist design and European architectural materials. Built in 1899 during King Chulalongkorn's reign, this royal temple features distinctive white and gray Italian marble—a material unique among Bangkok's Buddhist temples. The elegant marble exterior contrasts beautifully with the golden decorations and intricate Thai Buddhist artwork adorning the interior. The temple's cruciform layout centers around a golden mondop, creating a space of extraordinary spiritual and artistic significance. Historically, Wat Benchamabophit served as the residence of Thailand's Supreme Buddhist Patriarch, making it the spiritual center of Thai Buddhist hierarchy. The temple exemplifies Thailand's openness to Western influences while maintaining strict adherence to Buddhist principles and Thai architectural traditions. Morning alms-giving ceremonies here attract international visitors seeking authentic Buddhist experiences.",
     "historical_significance": "Built by Chakri Dynasty as royal temple; rare architectural fusion of European materials with Thai design; residence of Supreme Buddhist Patriarch; represents late 19th-century Thai modernization",
     "quiz_image_prompt": "This uniquely designed Bangkok temple features unusual white and gray marble exterior. What is it called?",
-    "quiz_location_prompt": "The Marble Temple was built in 1899 by King Chulalongkorn. What European material gives it its distinctive appearance?"
+    "quiz_location_prompt": "The Marble Temple was built in 1899 by King Chulalongkorn. What European material gives it its distinctive appearance?",
+    "verified_source": "nominatim:way/31987718"
   },
   {
     "id": 5,
     "name_english": "Wat Arun",
     "name_thai": "วัดอรุณ",
-    "latitude": 13.6434,
-    "longitude": 100.4877,
+    "latitude": 13.743898,
+    "longitude": 100.488514,
     "founding_year": 1809,
     "architectural_style": "Khmer-influenced prang design with Thai adaptation",
     "description": "Wat Arun, the Temple of the Dawn, stands as one of Southeast Asia's most visually distinctive Buddhist temples. Its central prang (Khmer-style tower) rises majestically to 86.8 meters, adorned with colorful porcelain pieces—a technique called 'kranok' decoration that shimmers in changing light. Originally built during the Ayutthaya period and significantly rebuilt in 1809 during King Rama II's reign, Wat Arun embodies over three centuries of Buddhist architectural tradition. The name derives from the Hindu god Aruna, associated with dawn, as the temple's eastern orientation captures the morning sun spectacularly. The riverside location on Thonburi's bank of the Chao Phraya River makes it an iconic Bangkok landmark—dramatically lit at night and reflected in the river waters. Visitors ascending the steep steps of the central prang are rewarded with panoramic views of Bangkok and the Chao Phraya River.",
     "historical_significance": "Major temple since Ayutthaya period; rebuilt during King Rama II's reign; iconic Bangkok landmark; architectural fusion of Khmer and Thai traditions",
     "quiz_image_prompt": "This riverside temple features a distinctive central tower decorated with colorful porcelain. What is its name?",
-    "quiz_location_prompt": "Wat Arun sits on the Thonburi bank of the Chao Phraya River. What does its name literally translate to?"
+    "quiz_location_prompt": "Wat Arun sits on the Thonburi bank of the Chao Phraya River. What does its name literally translate to?",
+    "verified_source": "nominatim:way/23481741"
   },
   {
     "id": 6,
     "name_english": "Wat Traimit",
     "name_thai": "วัดไตรมิตร",
-    "latitude": 13.627,
-    "longitude": 100.512,
+    "latitude": 13.737999,
+    "longitude": 100.513653,
     "founding_year": 1911,
     "architectural_style": "Chinese shophouse adapted as temple",
     "description": "Wat Traimit, the Temple of the Golden Buddha, houses one of Buddhism's most remarkable treasures—a massive Sukhothai-period Buddha statue cast from 5.5 tons of solid gold. Standing 5.5 meters high, this serene golden Buddha was cast during Thailand's 13th-century Sukhothai kingdom and remained hidden beneath a stucco covering for approximately 200 years, surviving wars and temple destructions. In 1954, during relocation to a new building in Bangkok's Yaowarat district, the stucco accidentally cracked, revealing the gleaming gold beneath. This extraordinary discovery captivated global attention and restored the statue to prominence. Today, Wat Traimit sits within a Chinese-style shophouse complex in Bangkok's historic Chinese quarter, reflecting the unique blend of Chinese and Thai Buddhist traditions in urban Bangkok. A modern museum chronicles the statue's fascinating history, from its Sukhothai creation through its hidden centuries to its dramatic rediscovery.",
     "historical_significance": "Houses world's largest golden Buddha from Sukhothai period; remarkable rediscovery in 1954 after 200 years hidden; represents Chinese-Thai Buddhist cultural fusion",
     "quiz_image_prompt": "This golden statue was hidden for 200 years under plaster. What temple houses this remarkable treasure?",
-    "quiz_location_prompt": "The Temple of the Golden Buddha sits in Bangkok's historic Yaowarat district. How many tons of gold was used to cast the famous Buddha statue?"
+    "quiz_location_prompt": "The Temple of the Golden Buddha sits in Bangkok's historic Yaowarat district. How many tons of gold was used to cast the famous Buddha statue?",
+    "verified_source": "nominatim:way/241879483"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "description": "Wat Bowonniwet, established in 1826, stands as a historically important Bangkok temple with strong royal connections to the Chakri Dynasty. Located in the old city area, this traditional Thai Buddhist temple served as a center for Buddhist education and spiritual development throughout the 19th and 20th centuries. The temple complex features a beautiful wihan (assembly hall) with ornate decorations depicting Buddhist teachings and Thai artistic traditions. Wat Bowonniwet gained significance as a center for Buddhist reform movements and contemplative practice. Multiple Thai kings have maintained patronage relationships with this temple, reflecting its spiritual importance. The temple remains an active meditation center and Buddhist university, where monks and scholars continue traditions of Buddhist study and practice established nearly 200 years ago.",
     "historical_significance": "Founded as royal temple under Chakri Dynasty patronage; site of Buddhist reform movements; center for Buddhist education and meditation; important in Thai Buddhist intellectual history",
     "quiz_image_prompt": "This historic Bangkok temple was founded in 1826 as a royal temple. What is its significance in Thai Buddhist tradition?",
-    "quiz_location_prompt": "Located in old Bangkok, this temple served as a center for Buddhist reform. What is it called?"
+    "quiz_location_prompt": "Located in old Bangkok, this temple served as a center for Buddhist reform. What is it called?",
+    "verified_source": "nominatim:way/233810865"
   },
   {
     "id": 8,
@@ -107,66 +114,71 @@
     "id": 9,
     "name_english": "Wat Suthat",
     "name_thai": "วัดสุทัศน์",
-    "latitude": 13.7425,
-    "longitude": 100.5108,
+    "latitude": 13.750192,
+    "longitude": 100.500344,
     "founding_year": 1807,
     "architectural_style": "Thai traditional with elaborate decorations",
     "description": "Wat Suthat is one of Bangkok's most impressive temples, famous for its towering 8-meter bronze Buddha statue (Phra Buddha Sakyamuni) and elaborate architectural decoration. Construction began in 1807 during King Rama I's reign and continued for over four decades, representing an extraordinary commitment to Buddhist art and culture. The temple's interior features intricate murals, ornate door panels, and decorative elements showcasing Thai craftsmanship at its finest. The famous red swing (Sao Ching Cha) stands outside the temple compound, a historic Brahmin structure used in a now-discontinued annual ceremony. The bronze Buddha statue, cast using traditional methods, stands in serene meditation pose, gazing toward the river. Wat Suthat remains an important pilgrimage site and symbol of Buddhist devotion in Bangkok.",
     "historical_significance": "One of Bangkok's tallest and most impressive ancient statues; represents major investment in Buddhist art during early Chakri Dynasty; bronze statue cast using traditional methods; symbol of Buddhist learning",
     "quiz_image_prompt": "This temple houses an enormous bronze Buddha statue. What does 'Suthat' mean in Thai Buddhist context?",
-    "quiz_location_prompt": "Famous for its tall bronze Buddha, this temple also has a giant red swing outside. What is it called?"
+    "quiz_location_prompt": "Famous for its tall bronze Buddha, this temple also has a giant red swing outside. What is it called?",
+    "verified_source": "nominatim:node/3036908342"
   },
   {
     "id": 10,
     "name_english": "Wat Intharawihan",
     "name_thai": "วัดอินทรวิหาร",
-    "latitude": 13.8165,
-    "longitude": 100.5051,
+    "latitude": 13.766806,
+    "longitude": 100.502982,
     "founding_year": 1827,
     "architectural_style": "Thai traditional with modern renovations",
     "description": "Wat Intharawihan, founded in 1827, boasts one of Thailand's most remarkable Buddhist sculptures—a colossal 32-meter tall standing Buddha statue (Luang Pho To) that was the world's tallest standing Buddha image when constructed. This golden statue dominates the Bangkok skyline and stands as a testament to Thai commitment to Buddhist art and spiritual practice. The temple complex includes smaller chedis, ordination halls, and meditation areas surrounding the central Buddha image. The statue's proportions and serene expression exemplify Thai Buddhist sculptural traditions perfected over centuries. Located on the Chao Phraya River, Wat Intharawihan attracts pilgrims seeking spiritual merit through veneration and meditation. The temple remains an important center for Buddhist practice and continues as a major pilgrimage destination for Thai Buddhists.",
     "historical_significance": "Represents peak of Thai Buddhist sculptural achievement; built to honor Buddha Maitreya (Future Buddha); world's tallest standing Buddha when built; important meditation and pilgrimage center",
     "quiz_image_prompt": "This riverside temple features one of the world's tallest standing Buddha statues. What is it called?",
-    "quiz_location_prompt": "Built in 1827, this temple's towering golden Buddha statue was revolutionary for its size. How tall is the statue?"
+    "quiz_location_prompt": "Built in 1827, this temple's towering golden Buddha statue was revolutionary for its size. How tall is the statue?",
+    "verified_source": "nominatim:way/342343926"
   },
   {
     "id": 11,
     "name_english": "Wat Mangkon Kamalawat",
     "name_thai": "วัดมงคลการมลาวัตร",
-    "latitude": 13.6255,
-    "longitude": 100.5135,
+    "latitude": 13.743538,
+    "longitude": 100.509542,
     "founding_year": 1871,
     "architectural_style": "Chinese-Thai Buddhist fusion",
     "description": "Wat Mangkon Kamalawat, founded in 1871 in Bangkok's historic Chinatown (Yaowarat), serves as the primary Buddhist temple for Bangkok's ethnic Chinese communities. The temple showcases beautiful Chinese architectural elements—a pagoda-style design with traditional Chinese motifs—while maintaining Thai Buddhist practice traditions. Inside, ornate decorations, Chinese calligraphy, and Buddhist artwork create an atmosphere reflecting centuries of Chinese Buddhist heritage. The temple remains an active center for Chinese immigrant communities, hosting traditional Chinese Buddhist festivals and ceremonies. Wat Mangkon Kamalawat represents the rich multicultural religious history of Bangkok, where different communities maintain distinct spiritual traditions while sharing Buddhist faith. The temple is a fascinating study in cultural syncretism and remains important to both religious and historical understanding of Bangkok's diverse population.",
     "historical_significance": "Serves Bangkok's ethnic Chinese Buddhist community; important center for Chinese immigrant communities; demonstrates multicultural religious history of Bangkok; represents Chinese-Thai cultural syncretism",
     "quiz_image_prompt": "This Chinatown temple features distinctive Chinese pagoda architecture. What community does it primarily serve?",
-    "quiz_location_prompt": "Located in Bangkok's Yaowarat district, this temple was founded in 1871. What is its name?"
+    "quiz_location_prompt": "Located in Bangkok's Yaowarat district, this temple was founded in 1871. What is its name?",
+    "verified_source": "nominatim:way/301157259"
   },
   {
     "id": 12,
     "name_english": "Wat Rachathiwat",
     "name_thai": "วัดราชาธิวัส",
-    "latitude": 13.757,
-    "longitude": 100.4743,
+    "latitude": 13.775516,
+    "longitude": 100.50363,
     "founding_year": 1908,
     "architectural_style": "Modern Thai Buddhist",
     "description": "Wat Rachathiwat, founded in 1908 during Thailand's early modernization period, represents an important phase in Buddhist temple development. As a royal temple, it received significant patronage and carefully designed architecture combining traditional Thai Buddhist elements with modern structural approaches. The temple serves as an active meditation center and Buddhist university, continuing traditions of Buddhist education and practice. Wat Rachathiwat demonstrates how Thai Buddhism adapted to modern Bangkok while maintaining reverence for traditional practices and teachings. The temple complex includes contemporary facilities supporting Buddhist education, ordination, and meditation alongside traditional sacred spaces.",
     "historical_significance": "Built during period of Thai modernization; represents integration of Buddhist practice with modern life; important center for Buddhist education; symbol of Thai Buddhism's adaptation to modern era",
     "quiz_image_prompt": "This modern royal temple combines traditional Buddhist architecture with contemporary design. What is it called?",
-    "quiz_location_prompt": "Founded in 1908, this temple represents Buddhist adaptation to modern Bangkok. What is its significance?"
+    "quiz_location_prompt": "Founded in 1908, this temple represents Buddhist adaptation to modern Bangkok. What is its significance?",
+    "verified_source": "nominatim:way/536283155"
   },
   {
     "id": 13,
     "name_english": "Wat Chana Songkhram",
     "name_thai": "วัดชนะสงคราม",
-    "latitude": 13.6525,
-    "longitude": 100.489,
+    "latitude": 13.760806,
+    "longitude": 100.495079,
     "founding_year": 1871,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Chana Songkhram, founded in 1871, represents an important thread in Bangkok's Buddhist landscape. Located in the historic old city area, this traditional temple has maintained Buddhist practice for over 150 years. The name means 'Temple of Victory' and reflects Buddhist themes of spiritual triumph over worldly attachments. The temple continues as an active meditation center and pilgrimage site, honoring its place in Bangkok's continuous Buddhist tradition spanning nearly two centuries.",
     "historical_significance": "Important meditation center; reflects Bangkok's Buddhist heritage; represents continuous Buddhist tradition for 150+ years; significant pilgrimage destination",
     "quiz_image_prompt": "Located in historic old Bangkok, this temple's name means 'Temple of Victory.' What is it?",
-    "quiz_location_prompt": "This meditation center founded in 1871 reflects Bangkok's Buddhist heritage. What is its name?"
+    "quiz_location_prompt": "This meditation center founded in 1871 reflects Bangkok's Buddhist heritage. What is its name?",
+    "verified_source": "nominatim:way/178329976"
   },
   {
     "id": 14,
@@ -179,46 +191,50 @@
     "description": "Wat Ratchanatdaram, founded in 1846, stands as an important historic Bangkok temple with deep roots in Thai Buddhist practice. The temple's architecture reflects traditional Thai design, and it serves as an important pilgrimage destination. The temple maintains important Buddhist reliquaries and serves as a center for merit-making and spiritual practice. Wat Ratchanatdaram represents the continuity of Bangkok Buddhist traditions and remains an active center for monks and devotees seeking spiritual development.",
     "historical_significance": "Important pilgrimage site; associated with Thai Buddhist devotion; represents Buddhist continuity; maintains important reliquaries",
     "quiz_image_prompt": "This historic 1846 temple serves important roles in Bangkok Buddhist practice. What is it?",
-    "quiz_location_prompt": "An important pilgrimage site in Bangkok, this temple was founded mid-Rattanakosin period. What is it called?"
+    "quiz_location_prompt": "An important pilgrimage site in Bangkok, this temple was founded mid-Rattanakosin period. What is it called?",
+    "verified_source": "nominatim:way/103022363"
   },
   {
     "id": 15,
     "name_english": "Wat Maharat",
     "name_thai": "วัดมหาราช",
-    "latitude": 13.6436,
-    "longitude": 100.4943,
+    "latitude": 14.975564,
+    "longitude": 102.106684,
     "founding_year": 1788,
     "architectural_style": "Ayutthaya Thai with later additions",
     "description": "Wat Maharat, with roots extending to Thailand's Ayutthaya period, survived the kingdom's fall and was relocated to Bangkok in 1788. This historic temple represents remarkable Buddhist resilience and continuity through centuries of Thai historical change. The temple's name means 'Temple of Great Royalty' and reflects its historical importance to Thai Buddhist kingdoms. Wat Maharat continues as an active meditation center and pilgrimage site, maintaining traditions established centuries ago while serving modern Bangkok's Buddhist community.",
     "historical_significance": "Survived Ayutthaya's fall; relocated to Bangkok; represents Buddhist continuity through Thai historical changes; active meditation center",
     "quiz_image_prompt": "This ancient temple survived Ayutthaya's fall and was relocated to Bangkok. What is it?",
-    "quiz_location_prompt": "With roots in Ayutthaya period, this temple represents Buddhist continuity. What is its name?"
+    "quiz_location_prompt": "With roots in Ayutthaya period, this temple represents Buddhist continuity. What is its name?",
+    "verified_source": "nominatim:way/549397528"
   },
   {
     "id": 16,
     "name_english": "Wat Pathum Wanaram",
     "name_thai": "วัดปทุมวนาราม",
-    "latitude": 13.73,
-    "longitude": 100.548,
+    "latitude": 13.745293,
+    "longitude": 100.536624,
     "founding_year": 1857,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Pathum Wanaram, founded in 1857 in what would become central Bangkok, stands today surrounded by shopping malls and commercial development—a powerful symbol of Buddhism's enduring presence in modern Thai society. The temple maintains traditional Buddhist architecture and practice despite urban transformation around it. This temple represents how Bangkok's Buddhist communities preserved spiritual traditions even as the city underwent dramatic modernization and physical change. Wat Pathum Wanaram continues as an active pilgrimage site where traditional Buddhist practices persist amid 21st-century urban Bangkok, demonstrating the spiritual resilience and adaptability of Thai Buddhism.",
     "historical_significance": "Established during Bangkok's physical expansion; demonstrates Buddhism's adaptation to urban change; important spiritual anchor in developed Bangkok; symbol of Buddhism's enduring presence",
     "quiz_image_prompt": "Surrounded by shopping malls, this traditional temple stands in modern Bangkok. What is it called?",
-    "quiz_location_prompt": "Founded in 1857, this temple represents Buddhism's adaptation to urban Bangkok. What is its name?"
+    "quiz_location_prompt": "Founded in 1857, this temple represents Buddhism's adaptation to urban Bangkok. What is its name?",
+    "verified_source": "nominatim:node/4789460023"
   },
   {
     "id": 17,
     "name_english": "Wat Ratchabophit",
     "name_thai": "วัดราชบพิตร",
-    "latitude": 13.6524,
-    "longitude": 100.4936,
+    "latitude": 13.749029,
+    "longitude": 100.497178,
     "founding_year": 1869,
     "architectural_style": "Thai Buddhist with modern architectural innovation",
     "description": "Wat Ratchabophit, commissioned by King Chulalongkorn in 1869, represents an innovative approach to Buddhist temple design while maintaining traditional elements. The temple features a distinctive circular cloister—an architectural innovation reflecting 19th-century Thai modernization. The design successfully merges traditional Thai Buddhist iconography with modern architectural principles, creating a unique space that honors Buddhist tradition while embracing contemporary design. Royal patronage evident in the elaborate decoration and careful architectural design demonstrates the Thai monarchy's continued support for Buddhism. Wat Ratchabophit stands as a beautiful example of how Thai Buddhism evolved and adapted during Thailand's period of modernization.",
     "historical_significance": "Built by King Chulalongkorn in 1869; represents innovation in Buddhist temple design; demonstrates royal support for Buddhism in modern era; symbol of Thai Buddhist artistic excellence",
     "quiz_image_prompt": "This temple features an innovative circular cloister design. Who commissioned it in 1869?",
-    "quiz_location_prompt": "With unique modern architecture, this royal temple represents Thai Buddhist innovation. What is it called?"
+    "quiz_location_prompt": "With unique modern architecture, this royal temple represents Thai Buddhist innovation. What is it called?",
+    "verified_source": "nominatim:way/138947464"
   },
   {
     "id": 18,
@@ -250,40 +266,43 @@
     "id": 20,
     "name_english": "Wat Samphanthawong",
     "name_thai": "วัดสัมพันธวงค์",
-    "latitude": 13.629,
-    "longitude": 100.5095,
+    "latitude": 13.738371,
+    "longitude": 100.510088,
     "founding_year": 1809,
     "architectural_style": "Ayutthaya Thai with Rattanakosin additions",
     "description": "Wat Samphanthawong, originally founded during Thailand's Ayutthaya period and rebuilt in Bangkok during 1809, represents remarkable Buddhist continuity through major Thai historical transitions. The temple survived the fall of Ayutthaya and was relocated to Bangkok, carrying Buddhist traditions across centuries of change. Its architecture reflects both Ayutthaya and early Rattanakosin periods, making it historically significant for understanding Thai Buddhist temple development. Wat Samphanthawong demonstrates how Buddhist temples preserved spiritual traditions through political upheavals and military conflicts that reshaped Thai history. The temple remains an active spiritual center, honoring its centuries-old heritage.",
     "historical_significance": "Survived Ayutthaya's fall and relocated to Bangkok; represents Buddhist continuity through Thai historical periods; important early Bangkok temple; testament to Buddhist tradition's survival",
     "quiz_image_prompt": "This temple was originally built during Ayutthaya period and relocated when Bangkok became capital. What is it called?",
-    "quiz_location_prompt": "A survivor of Ayutthaya's fall, this temple now stands in old Bangkok. What does its history represent?"
+    "quiz_location_prompt": "A survivor of Ayutthaya's fall, this temple now stands in old Bangkok. What does its history represent?",
+    "verified_source": "nominatim:way/1000481578"
   },
   {
     "id": 21,
     "name_english": "Wat Soi Thong",
     "name_thai": "วัดสวยทอง",
-    "latitude": 13.668,
-    "longitude": 100.532,
+    "latitude": 13.812095,
+    "longitude": 100.517481,
     "founding_year": 1850,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Soi Thong, established during Bangkok's development period, serves as an important neighborhood temple maintaining local Buddhist traditions. The temple's name suggests golden beauty, reflecting traditional Thai aesthetic values in Buddhist temple design. As a community-based temple, Wat Soi Thong plays important roles in local merit-making and ordination ceremonies.",
     "historical_significance": "Important neighborhood Buddhist community center; represents local Buddhist practice; community merit-making and ordination site",
     "quiz_image_prompt": "This neighborhood temple serves Bangkok's Buddhist community. What is it called?",
-    "quiz_location_prompt": "A community-based temple in Bangkok, this site reflects local Buddhist practice. What is its name?"
+    "quiz_location_prompt": "A community-based temple in Bangkok, this site reflects local Buddhist practice. What is its name?",
+    "verified_source": "nominatim:node/5818119896"
   },
   {
     "id": 22,
     "name_english": "Wat Noi",
     "name_thai": "วัดน้อย",
-    "latitude": 13.638,
-    "longitude": 100.495,
+    "latitude": 13.822879,
+    "longitude": 100.517788,
     "founding_year": 1788,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Noi, whose name means 'Small Temple,' represents the category of smaller temples forming the foundation of Bangkok's Buddhist community. Originally established during Ayutthaya period and rebuilt during Bangkok's establishment, this historic temple maintains traditional Buddhist practices.",
     "historical_significance": "Represents smaller temples foundational to Bangkok's Buddhist network; Ayutthaya period origins; illustrates distributed temple communities",
     "quiz_image_prompt": "This smaller temple's name means 'Small Temple,' yet it plays important roles. What is it?",
-    "quiz_location_prompt": "A historic smaller temple in Bangkok, what is its name?"
+    "quiz_location_prompt": "A historic smaller temple in Bangkok, what is its name?",
+    "verified_source": "nominatim:way/1433798308"
   },
   {
     "id": 23,
@@ -315,27 +334,29 @@
     "id": 25,
     "name_english": "Wat Sanam Chai",
     "name_thai": "วัดสนามชัย",
-    "latitude": 13.628,
-    "longitude": 100.487,
+    "latitude": 13.746915,
+    "longitude": 100.494052,
     "founding_year": 1800,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Sanam Chai, established in Bangkok's early development period, serves as an important historical temple reflecting Bangkok's spiritual geography. Located in the old city area, the temple maintains traditional Buddhist architecture and continues as a community merit-making center.",
     "historical_significance": "Important historical temple in old Bangkok; reflects spiritual geography; community pilgrimage site; Buddhist education center",
     "quiz_image_prompt": "Located in historic old Bangkok, this temple maintains Buddhist traditions. What is it?",
-    "quiz_location_prompt": "An important temple in historic Bangkok, what is its name?"
+    "quiz_location_prompt": "An important temple in historic Bangkok, what is its name?",
+    "verified_source": "nominatim:way/23630112"
   },
   {
     "id": 26,
     "name_english": "Wat Hong Rattanaram",
     "name_thai": "วัดหงษ์รัตนาราม",
-    "latitude": 13.64,
-    "longitude": 100.51,
+    "latitude": 13.739417,
+    "longitude": 100.487776,
     "founding_year": 1820,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Hong Rattanaram, founded during Bangkok's early Rattanakosin period, represents important Buddhist heritage in the old city area. The temple maintains traditional Thai Buddhist architecture and serves as a significant center for Buddhist practice and spiritual development.",
     "historical_significance": "Founded early Rattanakosin period; old city Buddhist heritage site; important pilgrimage destination; active spiritual center",
     "quiz_image_prompt": "This early Rattanakosin-period temple is an important Buddhist heritage site. What is it?",
-    "quiz_location_prompt": "A significant pilgrimage site in old Bangkok founded in 1820. What is its name?"
+    "quiz_location_prompt": "A significant pilgrimage site in old Bangkok founded in 1820. What is its name?",
+    "verified_source": "nominatim:way/376311483"
   },
   {
     "id": 27,
@@ -354,14 +375,15 @@
     "id": 29,
     "name_english": "Wat Khilek",
     "name_thai": "วัดเขียลก",
-    "latitude": 13.675,
-    "longitude": 100.518,
+    "latitude": 13.780186,
+    "longitude": 100.467992,
     "founding_year": 1870,
     "architectural_style": "Thai Buddhist traditional",
     "description": "Wat Khilek, established during Bangkok's development, serves as a community temple maintaining local Buddhist traditions. The temple represents how Buddhism functions through networks of temples serving neighborhoods throughout Bangkok.",
     "historical_significance": "Neighborhood Buddhist community center; sustains local Buddhist traditions; part of distributed temple network serving urban Bangkok",
     "quiz_image_prompt": "This neighborhood temple reflects local Buddhist practice. What is it?",
-    "quiz_location_prompt": "A community-based temple in Bangkok, what is its name?"
+    "quiz_location_prompt": "A community-based temple in Bangkok, what is its name?",
+    "verified_source": "nominatim:way/376863074"
   },
   {
     "id": 30,
