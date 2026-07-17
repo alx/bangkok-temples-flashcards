@@ -195,20 +195,6 @@
     "verified_source": "nominatim:way/103022363"
   },
   {
-    "id": 15,
-    "name_english": "Wat Maharat",
-    "name_thai": "วัดมหาราช",
-    "latitude": 14.975564,
-    "longitude": 102.106684,
-    "founding_year": 1788,
-    "architectural_style": "Ayutthaya Thai with later additions",
-    "description": "Wat Maharat, with roots extending to Thailand's Ayutthaya period, survived the kingdom's fall and was relocated to Bangkok in 1788. This historic temple represents remarkable Buddhist resilience and continuity through centuries of Thai historical change. The temple's name means 'Temple of Great Royalty' and reflects its historical importance to Thai Buddhist kingdoms. Wat Maharat continues as an active meditation center and pilgrimage site, maintaining traditions established centuries ago while serving modern Bangkok's Buddhist community.",
-    "historical_significance": "Survived Ayutthaya's fall; relocated to Bangkok; represents Buddhist continuity through Thai historical changes; active meditation center",
-    "quiz_image_prompt": "This ancient temple survived Ayutthaya's fall and was relocated to Bangkok. What is it?",
-    "quiz_location_prompt": "With roots in Ayutthaya period, this temple represents Buddhist continuity. What is its name?",
-    "verified_source": "nominatim:way/549397528"
-  },
-  {
     "id": 16,
     "name_english": "Wat Pathum Wanaram",
     "name_thai": "วัดปทุมวนาราม",
@@ -488,32 +474,6 @@
     "historical_significance": "Ayutthaya period roots; represents ancient Buddhist heritage; historic bell tower; important pilgrimage site",
     "quiz_image_prompt": "This temple's name references a bell. What is Wat Rakang Kosìtaram called?",
     "quiz_location_prompt": "With Ayutthaya period roots, this temple represents ancient Buddhist heritage. What is its name?"
-  },
-  {
-    "id": 41,
-    "name_english": "Wat Umong Maha Vihara",
-    "name_thai": "วัดอุโมงค์มหาวิหาร",
-    "latitude": 13.82,
-    "longitude": 100.495,
-    "founding_year": 1297,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Umong Maha Vihara, with historical roots extending to medieval Thai kingdoms, represents remarkable Buddhist continuity. Located in northern Bangkok area, the temple maintains traditional practices and serves as an important meditation center.",
-    "historical_significance": "Medieval Thai kingdom origins; represents Buddhist continuity across centuries; important meditation center; cultural heritage site",
-    "quiz_image_prompt": "This temple has historical roots extending to medieval Thai kingdoms. What is it called?",
-    "quiz_location_prompt": "Located in northern Bangkok, this temple represents Buddhist continuity across centuries. What is its name?"
-  },
-  {
-    "id": 42,
-    "name_english": "Wat Phra Borom Maha Vihara",
-    "name_thai": "วัดพระโพธิ์มหาวิหาร",
-    "latitude": 13.69,
-    "longitude": 100.515,
-    "founding_year": 1880,
-    "architectural_style": "Thai Buddhist traditional",
-    "description": "Wat Phra Borom Maha Vihara, established in 1880, represents Buddhist development during Bangkok's modernization period. The temple continues as an active center for Buddhist education and practice.",
-    "historical_significance": "Founded 1880 during modernization; Buddhist education center; represents evolution of Thai Buddhism in modern era",
-    "quiz_image_prompt": "This 1880 temple represents Buddhist development during Bangkok's modernization. What is it called?",
-    "quiz_location_prompt": "Founded during modernization period, this temple continues Buddhist education. What is its name?"
   },
   {
     "id": 43,
